@@ -1,0 +1,21 @@
+{
+  "name": "site-armego",
+  "version": "1.0.0",
+  "description": "Site Armego - DropShip Brasil",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "dropship",
+    "brasil",
+    "armego"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
